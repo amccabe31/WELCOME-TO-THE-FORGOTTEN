@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "StandardCLIP",
+	"origin" : "standardCLIP.vstinfo",
+	"type" : "VST",
+	"subtype" : "AudioEffect",
+	"embed" : 1,
+	"snapshot" : 	{
+		"pluginname" : "standardCLIP.vstinfo",
+		"plugindisplayname" : "StandardCLIP",
+		"pluginsavedname" : "",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "884.CMlaKA....fQPMDZ....ALkc04D.A.......A........................................L.NDEFcgAP.ILEcgQWYIMmQxU1bnAP.ALvTAQkUkI2bo8laNUWahUlb.DPAAHpO..vTzElajElbjMDSIAkQuIWagQmUkI2bo8la.DPAAH.....SoYWYVkVY2MEbkUFY.DP.BvTZ1UlUoU1cS8VcxMVY.DP.BXTctMFco8laPw1azM0XgwVY.DPAAD....vS0QGb0Q2QgklaCUVZrklamwTZtsF.ATP.A....bTXo4FQoYlYkIWYtMVYMUFckImTg41YkAP.ED.C....UMWYAUGcuITdvE1byAP.AHP.DLzRAUGYo8FTx81XkM2buIGQgQWX.D.BgMFcoYWYAUGYo81PnElatUFayAP.EDv+++++Aw1YuIWZzgVa.DPAAD....vS1UlbSEVavwVZtclQgMFcuIG.ATP.D....7jckI2Tg0FbrklamYTXiQ2ax8jYlwVZtUF.ATP......7jckI2Tg0FbrklamMTcz8jYl4TdwUWZyQG.Aj.ACWOJb8nvs+yS1UlbSEVavwVZtclPg4FYrkVaoQmQowFckI2TooWY.DPAA.D...vS1UlbSEVavwVZtcVUyUVSo4VZsUWaPgVXyUF.ADv.OYWYxMUXsAGao41YMklao0VcsAEZgMWYOIGYkIG.ATP.D....DP.PUlbsElak4FcDEFcgAP.BD1XzklckAkbkMWYz0zajklYoUFY.DP.CX1axMVYAUGYo8VUtkFcHk1YnIUYy8Fa0QWZu4F.ADf.AHPP0g2Tk4FYSQWXzUF....TxU1bkQWRtQVYvUlajUlazMEcgQWY....PElbg0VYzUlbyAP.H.WXxEVakQWYxMWPxUVRDMG.ATP.A....jFYekjavUGcfbTXo4F.Aj.A....fpppp+SZj80S0QGb0QGHGEVZtAP.IP.....nppp5+.mL.DPBD...........vMC.Aj.A..........PZj80PkkFao41Y.DPBD.....pppp9OoQ1WCwVZvAWZtcF.Aj.A....fpppp+Cb1.P.IP............fU00TYzUlbSUFczklamMG....SoYWYSMlbuwFao41YSUFczklamMG...."
+	}
+
+}
